@@ -1,0 +1,59 @@
+.bluish-color {
+    color:#00529B !important;
+}
+.grenish-color {
+    color:#59DE93 !important;
+}
+
+.bluwish-color {
+    background-color:#3F80EF !important;
+}
+.bluwis-color {
+    color:#3F80EF !important;
+}
+.bg-whitish-color{
+    background-color: #FDFEFE !important;
+}
+
+
+
+
+.yellowish-color{
+    color: #ffd87d !important;
+}
+.bg-blui-color {
+    background-color:#51ABF1 !important;
+}
+
+.bg-bluish-color {
+    background-color:#3F80EF !important;
+}
+
+.bg-yellowish-color{
+    background-color: #3F80EF !important;
+}
+.sidebar-nav ul li a.active, .sidebar-nav ul li a:hover {
+    color: #3F80EF; !important}
+.sidebar-nav ul li a.active i, .sidebar-nav ul li a:hover i {
+    color: #3F80EF !important}
+.sidebar-nav > ul > li > a.active {
+    font-weight: 400;
+    background: #f6f9fa;
+    color: #26c6da;
+    border-left: 3px solid #3F80EF !important}
+.sidebar-nav > ul > li.active > a {
+    color: #3F80EF;
+    font-weight: 500;!important }
+.sidebar-nav > ul > li.active > a i {
+    color: #3F80EF !important}
+
+.sidebar-nav > ul > li.active > a {
+    color:  #3F80EF;
+    border-color: #3F80EF !important}
+.sidebar-nav > ul > li.active > a i {
+    color:   #3F80EF!important }
+
+.sidebar-nav ul li a.active, .sidebar-nav ul li a:hover {
+    color:   #3F80EF!important }
+.sidebar-nav ul li a.active i, .sidebar-nav ul li a:hover i {
+    color:   #3F80EF !important}

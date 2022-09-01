@@ -1,0 +1,236 @@
+.text-themecolor {
+    color: #00529B !important;
+}
+
+a:active
+{
+    color: #00529B !important;
+}
+
+.amcharts-chart-div a {display:none !important;}
+
+.bg-success {
+    background-color: #00529B !important;
+}
+
+
+#btn-bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+}
+
+#send_sec_code
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+}
+
+#reg_btn_bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+}
+
+#verify_btn_bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+}
+.card
+{
+    border-radius: 1px !important;
+}
+
+input,
+select
+{
+    border-radius: 1px !important;
+}
+
+a:hover{
+    color: #3f9441 !important;
+}
+
+.form-material .form-control, .form-material .form-control.focus, .form-material .form-control:focus
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3f9441), to(#3f9441)), -webkit-gradient(linear, left top, left bottom, from(#e9edf2), to(#e9edf2)) !important;
+}
+
+#party_border
+{
+    border: solid 1px lightgrey;
+}
+
+#party_border_text
+{
+    padding: 20px;
+}
+
+#support_issues_padding
+{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    margin-left: 20px !important;
+}
+
+#support_issues_border
+{
+    border: solid 1px #ebebeb !important;
+}
+
+#support_issues_item
+{
+    margin-top: 10px;
+    height: 70px !important;
+    border: solid 1px lightgrey;
+
+}
+
+#support_issues_container
+{
+    margin-bottom: 10px;;
+}
+
+#support_issues_content
+{
+    margin: 20px;
+}
+
+#no_support_issue
+{
+    margin-top: 80vh;
+    text-align: center;
+}
+
+.support_issue_active
+{
+    background: #f6f9fa !important;
+}
+
+@media only screen and (max-width: 768px)
+{
+    #myCarousel
+    {
+        height: auto !important;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .mdl-layout__header .mdl-layout__drawer-button i {
+        display: none;
+    }
+}
+
+.mdl-layout__header .mdl-layout__drawer-button i {
+    margin-top: 25px !important;
+}
+
+@media only screen and (max-width: 768px) {
+    #label_status
+    {
+        float: right;
+    }
+
+    #label_type
+    {
+        float: right;
+    }
+}
+
+
+@media only screen and (min-width: 767px) {
+    p #priv1 {
+        display: none;
+    }
+
+    p #powered1 {
+        display: none;
+    }
+}
+
+.header-icons{
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+.mdl-layout__header .mdl-layout__drawer-button {
+    position: absolute;
+    color: #3f9441 !important;
+    background-color: inherit;
+}
+
+#print_card_body
+{
+    border: solid 1px ;
+}
+
+.timerangepicker-container {
+    display:flex;
+    position: absolute;
+    z-index: 999;
+    background: #363636;
+    color: white !important;
+}
+.timerangepicker-label {
+    display: block;
+    line-height: 2em;
+    background-color: #c8c8c880;
+    padding-left: 1em;
+    border-bottom: 1px solid grey;
+    margin-bottom: 0.75em;
+}
+
+.timerangepicker-from,
+.timerangepicker-to {
+    border: 1px solid grey;
+    padding-bottom: 0.75em;
+}
+.timerangepicker-from {
+    border-right: none;
+}
+.timerangepicker-display {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 2.5em;
+    height: 2.5em;
+    border: 1px solid grey;
+    line-height: 2.5em;
+    text-align: center;
+    position: relative;
+    margin: 1em 0.175em;
+}
+.timerangepicker-display .increment,
+.timerangepicker-display .decrement {
+    cursor: pointer;
+    position: absolute;
+    font-size: 1.5em;
+    width: 1.5em;
+    text-align: center;
+    left: 0;
+}
+
+.timerangepicker-display .increment {
+    margin-top: -0.25em;
+    top: -1em;
+}
+
+.timerangepicker-display .decrement {
+    margin-bottom: -0.25em;
+    bottom: -1em;
+}
+
+.timerangepicker-display.hour {
+    margin-left: 1em;
+}
+.timerangepicker-display.period {
+    margin-right: 1em;
+}
+
+
+
+

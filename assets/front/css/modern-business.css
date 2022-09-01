@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/*******************
+Global Styles
+*******************/
+@import url('../../assets/scss/icons/font-awesome/css/font-awesome.min.css');
+@import url('../../assets/scss/icons/simple-line-icons/css/simple-line-icons.css');
+@import url('../../assets/scss/icons/weather-icons/css/weather-icons.min.css');
+@import url('../../assets/scss/icons/iconmind/iconmind.css');
+@import url('../../assets/scss/icons/themify-icons/themify-icons.css');
+@import url('../../assets/scss/icons/flag-icon-css/flag-icon.min.css');
+@import url('../../assets/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css');
+
+body {
+    padding-top: 54px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px !important;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.carousel-item
+{
+    height: 80vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-caption
+{
+    background: rgba(10, 10, 10, 0.5) !important;
+    width: 100% !important;
+    right: 0; left: 0; bottom: 0; top: 0;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+#btn_bg
+{
+    background: #30b570  !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#verify_btn_bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#login_btn_bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#reg_btn_bg
+{
+    background: #3f9441 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#btn_bg_inverse
+{
+    background: #363636 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#btn_bg_inverse_nav
+{
+    background: #363636 !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+#btn_bg_nav
+{
+    background: #30b570  !important;
+    border-radius: 1px !important;
+    border-color: transparent !important;
+    color: white !important;
+}
+
+a:active
+{
+    color: #3f9441 !important;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: white !important;
+    background-color: #3f9441 !important;
+    border-color: #3f9441 !important;
+}
